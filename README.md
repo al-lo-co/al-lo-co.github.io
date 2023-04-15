@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Alejandro López Correa, a backend developer with experience in Ruby on Rails. I'm passionate about creating innovative solutions that make people's lives easier. I love working in teams and learning from others.
+I'm Alejandro López Correa, a backend developer with 3 years of experience in Ruby on Rails. I'm passionate about creating innovative solutions that make people's lives easier. I love working in teams and learning from others.
 
 ## What I do
 
